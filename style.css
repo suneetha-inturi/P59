@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+img{
+    width: 280px;
+}
+.menu{
+    top: 10px;
+    right: 30px;
+}
+.links:hover{
+    background-color: crimson;
+}
